@@ -1,0 +1,30 @@
+body {
+  background-color: #FFA22A;
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+  color: #82AC26;
+}
+
+.hero-section {
+  background-color: #4F3F84;
+  padding: 70px;
+  color: white;
+}
+
+.contact-section {
+  background-color: #FF662A;
+}
+
+.main-footer {
+  background-color: #4F3F84;
+  padding: 20px;
+  color: gray;
+}
+
+.main-footer i {
+  font-size: 32px;
+  margin: 10px;
+}
